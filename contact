@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- Your existing meta tags, title, and CSS styles -->
+</head>
+<body>
+  <header>
+    <!-- Your existing header content -->
+  </header>
+  <div class="container">
+    <!-- Your existing content -->
+    <section id="contact-us">
+      <h2>Contact Us</h2>
+      <p>If you have any questions, suggestions, or inquiries, feel free to reach out to us.</p>
+      <ul>
+        <li>Email: <a href="mailto:talhashahzad899@gmail.com">talhashahzad899@gmail.com</a></li>
+        <li>LinkedIn: <a href="https://www.linkedin.com/in/muhammad-talha-shahzad-151052153/">Muhammad Talha Shahzad</a></li>
+      </ul>
+    </section>
+  </div>
+  <footer>
+    <!-- Your existing footer content -->
+  </footer>
+</body>
+</html>
